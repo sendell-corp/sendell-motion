@@ -1,7 +1,7 @@
 # Contacto de palma (`src/contacto/palma.ts`) · r850, 17/11/2026
 
-Frente 1 de la fase grande: el «beso eléctrico» de Proyecto Y. Una mano que se apoya **en** la superficie de cualquier cuerpo
-(araña, gusano, hormiga, araña madre de 5,5 u o un cuerpo desconocido) sin atravesarlo ni quedarse lejos.
+Una mano que se apoya **en** la superficie de cualquier cuerpo
+(una araña, un gusano, una criatura de 5,5 u o un cuerpo desconocido) sin atravesarlo ni quedarse lejos.
 El juego usa una copia de este módulo (la fuente manda: se cambia aquí y se copia).
 
 ## Estado del arte (una pasada, al diseñar)

@@ -1,4 +1,4 @@
-// contacto/palma — «contacto de palma» (Daniel 17/11/2026, frente 1: el beso eléctrico de Proyecto Y).
+// contacto/palma — «contacto de palma»: una mano que se apoya en la superficie de un cuerpo.
 // Una mano que se apoya EN la superficie de otro cuerpo, cualquiera: araña, gusano, hormiga, jefe de 5,5 u o una caja desconocida.
 // Técnica (docs/PALMA-CONTACTO.md): el contacto se codifica en el marco LOCAL del hueso que lo lleva (la idea de Villegas et al.
 // 2021, «Contact-Aware Retargeting of Skinned Motion», y de la malla de interacción de Ho, Komura y Tai 2010: la relación vive en

@@ -1,4 +1,4 @@
-// qdt-motion — API pública. M0: solo los módulos vacíos (ver PLAN.md, «La pila de animación»).
+// sendell-motion — API pública.
 export * as apuntado from './apuntado/index.ts';
 export * as warping from './warping/index.ts';
 export * as ik from './ik/index.ts';

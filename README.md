@@ -1,4 +1,4 @@
-# qdt-motion
+# sendell-motion
 
 Character animation, palm contact and active-ragdoll physics for the web, built on
 [three.js](https://threejs.org) and [Jolt Physics](https://github.com/jrouwe/JoltPhysics.js) (WASM). It is the motion
@@ -22,7 +22,7 @@ By [Sendell](https://sendell.co). Design notes and module docs are in Spanish; t
 - **IK helpers (`src/ik/`).** Two-bone IK with a pole and world-space rotation helpers.
 
 Planned, empty on purpose for now: target-aware strike selection (`apuntado/`), motion warping (`warping/`), capsule
-sweeps for hit events (`contacto/`) and a richer skeleton (`esqueleto/`). See [PLAN.md](PLAN.md).
+sweeps for hit events (`contacto/`) and a richer skeleton (`esqueleto/`).
 
 ## Measured (the lab benchmark)
 
