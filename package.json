@@ -1,0 +1,24 @@
+{
+  "name": "qdt-motion",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Animation, contact and active-ragdoll physics for characters (three.js + Jolt), with a browser lab.",
+  "license": "Apache-2.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "tsc": "tsc --noEmit -p tsconfig.json",
+    "lab": "vite --config lab/jolt/vite.config.ts",
+    "lab:build": "vite build --config lab/jolt/vite.config.ts",
+    "lab:banco": "node lab/jolt/banco.mjs dist dist/banco-jolt.json 60"
+  },
+  "dependencies": {
+    "jolt-physics": "1.1.1",
+    "three": "0.181.2"
+  },
+  "devDependencies": {
+    "@types/three": "0.181.0",
+    "typescript": "5.9.3",
+    "vite": "6.4.6"
+  }
+}
